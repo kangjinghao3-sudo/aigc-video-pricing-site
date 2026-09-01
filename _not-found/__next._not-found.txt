@@ -2,4 +2,4 @@
 2:I[39011,["/aigc-video-pricing-site/_next/static/chunks/0pi6sxr_8rcpf.js","/aigc-video-pricing-site/_next/static/chunks/15f98zk-iqcv7.js"],"default"]
 3:I[37771,["/aigc-video-pricing-site/_next/static/chunks/0pi6sxr_8rcpf.js","/aigc-video-pricing-site/_next/static/chunks/15f98zk-iqcv7.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Kgj76OyWywFhKRBw1xXBi"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"V5gLI9RylfZqiwAyKnmUx"}
