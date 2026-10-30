@@ -1,2 +1,2 @@
-:HL["/aigc-video-pricing-site/_next/static/chunks/0fkp2cy8f5qhd.css","style"]
+:HL["/aigc-video-pricing-site/_next/static/chunks/0fkp2cy8f5qhd-k-91830c31.css","style"]
 0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"SiaRjPrTTxXAhmvZ06Xxd"}
